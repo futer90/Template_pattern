@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Created by urijkunicyn on 08/01/2020.
- */
 public class Estate_Agent {
     public static void main(String[] args) {
         final HouseCode houseCode = HouseCode.COTTAGE;
