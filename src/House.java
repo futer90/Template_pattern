@@ -1,6 +1,3 @@
-/**
- * Created by urijkunicyn on 08/01/2020.
- */
 public abstract class House {
     int length;
     int width;
