@@ -1,6 +1,4 @@
-/**
- * Created by urijkunicyn on 08/01/2020.
- */
+
 public class Cottage extends House {
     public Cottage(int length, int price, int width, String brigadir ) {
         this.length =length;
