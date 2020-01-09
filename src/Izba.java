@@ -1,6 +1,3 @@
-/**
- * Created by urijkunicyn on 08/01/2020.
- */
 public class Izba extends House {
     public Izba(int length, int price, int width, String brigadir ) {
         this.length =length;
